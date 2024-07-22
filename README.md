@@ -1,6 +1,10 @@
 ## Hola, mi nombre es  Lili 👋
 ## Hello, my name is  Lili 👋
 
+Soy bacterióloga y Laboratorista Clínico egresada de la Universidad Colegio Mayor de Cundinamarca, Bogotá - Colombia. Actualmente me encuentro estudiando una Maestría en Bioinformática ✨. Estoy aprendiendo a programar, me gusta porque puedo utilizar mis capacidades analíticas, dar rienda suelta a mi creatividad y aportar a la sociedad con mi conocimiento. Me apasiona la ciencia y la tecnología, por eso quiero aprender a hacer ciencia con computadoras 😄.
+
+I am a Bacteriologist, graduated from the Universidad Colegio Mayor de Cundinamarca in Bogotá, Colombia. I am currently pursuing a Master's degree in Bioinformatics ✨. I am learning to program, and I enjoy it because it allows me to use my analytical skills, unleash my creativity, and contribute to society with my knowledge. I am passionate about science and technology, which is why I want to learn how to conduct science with computers 😄.
+
 <!--
 **Liliana223/Liliana223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
