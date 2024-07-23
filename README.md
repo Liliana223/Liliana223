@@ -29,7 +29,7 @@ I am a Bacteriologist. I am currently pursuing a Master's degree in Bioinformati
 
 <li>
 <a href="https://www.linkedin.com/in/astrid-liliana-vargas-a4939a148/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Liliana-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Liliana+Vargas-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -37,7 +37,7 @@ I am a Bacteriologist. I am currently pursuing a Master's degree in Bioinformati
 
 <li>
 <a href="mailto:lilitavargas223@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Liliana+Vargas-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
