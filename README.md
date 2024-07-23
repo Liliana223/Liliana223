@@ -2,7 +2,7 @@
 ## Hello, my name is  Lili 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Liliana+Vargas..&hearts;++;Bacterióloga+y+laboratorista+clinico,;EEst.+de+maestría+en+bioinformática,;Aprendiendo+a+programar..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Liliana+Vargas..&hearts;++;Bacterióloga+y+laboratorista+clinico,;Est.+de+maestría+en+bioinformática,;Aprendiendo+a+programar..<3"></a>
 </p>
 
 Soy bacterióloga y Laboratorista Clínico. Actualmente me encuentro estudiando una Maestría en Bioinformática ✨. Estoy aprendiendo a programar, me gusta porque puedo utilizar mis capacidades analíticas, dar rienda suelta a mi creatividad y aportar a la sociedad con mi conocimiento. Me apasiona la ciencia y la tecnología, por eso quiero aprender a hacer ciencia con computadoras 😄.
