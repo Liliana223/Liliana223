@@ -11,7 +11,7 @@ Soy bacterióloga y Laboratorista Clínico. Actualmente me encuentro estudiando 
 
 I am a Bacteriologist. I am currently pursuing a Master's degree in Bioinformatics ✨. I am learning to program, and I enjoy it because it allows me to use my analytical skills, unleash my creativity, and contribute to society with my knowledge. I am passionate about science and technology, which is why I want to learn how to conduct science with computers 😄.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
