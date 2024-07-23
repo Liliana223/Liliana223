@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F6A8E3&size=25&center=true&vCenter=true&width=600&height=100&lines=Liliana+Vargas..&hearts;++;Bacterióloga+y+laboratorista+clinico,;Estudiante+de+maestría+en+bioinformática,;Aprendiendo+a+programar..<3"></a>
 </p>
 
-## About me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  About me
 
 Soy bacterióloga y Laboratorista Clínico. Actualmente me encuentro estudiando una Maestría en Bioinformática ✨. Estoy aprendiendo a programar, me gusta porque puedo utilizar mis capacidades analíticas, dar rienda suelta a mi creatividad y aportar a la sociedad con mi conocimiento. Me apasiona la ciencia y la tecnología, por eso quiero aprender a hacer ciencia con computadoras 😄.
 
