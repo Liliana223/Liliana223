@@ -1,6 +1,11 @@
 ## Hola, mi nombre es  Lili 👋
 ## Hello, my name is  Lili 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
 Soy bacterióloga y Laboratorista Clínico. Actualmente me encuentro estudiando una Maestría en Bioinformática ✨. Estoy aprendiendo a programar, me gusta porque puedo utilizar mis capacidades analíticas, dar rienda suelta a mi creatividad y aportar a la sociedad con mi conocimiento. Me apasiona la ciencia y la tecnología, por eso quiero aprender a hacer ciencia con computadoras 😄.
 
 I am a Bacteriologist. I am currently pursuing a Master's degree in Bioinformatics ✨. I am learning to program, and I enjoy it because it allows me to use my analytical skills, unleash my creativity, and contribute to society with my knowledge. I am passionate about science and technology, which is why I want to learn how to conduct science with computers 😄.
