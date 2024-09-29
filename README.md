@@ -7,9 +7,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  About me
 
-Soy bacterióloga y Laboratorista Clínico. Actualmente me encuentro estudiando una Maestría en Bioinformática ✨. Estoy aprendiendo a programar, me gusta porque puedo utilizar mis capacidades analíticas, dar rienda suelta a mi creatividad y aportar a la sociedad con mi conocimiento. Me apasiona la ciencia y la tecnología, por eso quiero aprender a hacer ciencia con computadoras 😄.
+Soy bacterióloga y laboratorista clínico, egresada de la Universidad Colegio Mayor de Cundinamarca. Actualmente, curso una maestría en Bioinformática en la Universidad Internacional de La Rioja, donde estoy involucrada en varios proyectos relacionados con esta disciplina 💫. Entre ellos, destaco mi Trabajo de Fin de Máster (TFM), enfocado en la aplicación de inteligencia artificial en el ámbito de la virología 😊. Además, he participado en prácticas en remoto a través de HackBio, donde he desarrollado proyectos de programación en R, analizado datos y creado aplicaciones para resolver problemas bioinformáticos 💫.
 
-I am a Bacteriologist. I am currently pursuing a Master's degree in Bioinformatics ✨. I am learning to program, and I enjoy it because it allows me to use my analytical skills, unleash my creativity, and contribute to society with my knowledge. I am passionate about science and technology, which is why I want to learn how to conduct science with computers 😄.
+I am a bacteriologist and clinical laboratory scientist, graduated from Universidad Colegio Mayor de Cundinamarca. I am currently pursuing a master's degree in Bioinformatics at Universidad Internacional de La Rioja, where I am involved in various projects related to this field 💫. Among them, I highlight my Master’s Thesis (TFM), focused on the application of artificial intelligence in the field of virology 😊. In addition, I have participated in remote internships through HackBio, where I have developed projects in R programming, data analysis, and application creation to solve bioinformatics problems 💫.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools
 
