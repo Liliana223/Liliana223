@@ -15,6 +15,10 @@ I am a bacteriologist and clinical laboratory scientist, graduated from Universi
 
 - Trabajo de Fin de Master: Plan de propuesta. Aplicacion de la IA en el estudio del codon usage en el virus del PRRS <a href="https://github.com/Liliana223/Plan-de-propuesta.-Aplicacion-de-la-IA-en-el-estudio-del-codon-usage-en-el-virus-del-PRRS" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 
+- HackBio Internship Cancer
+- -Gram positive vs Negative bacteria Stage-zero
+  - <a href="https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Gram-positive-vs-Negative-bacteria-Stage-zero.md" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
