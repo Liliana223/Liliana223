@@ -13,13 +13,13 @@ I am a bacteriologist and clinical laboratory scientist, graduated from Universi
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Projects
 
-- [Trabajo de Fin de Master: Plan de propuesta. Aplicacion de la IA en el estudio del codon usage en el virus del PRRS](https://youtube.com/aristidevs?sub_confirmation=1)
-
-- Trabajo de Fin de Master: Plan de propuesta. Aplicacion de la IA en el estudio del codon usage en el virus del PRRS. <a href="https://github.com/Liliana223/Plan-de-propuesta.-Aplicacion-de-la-IA-en-el-estudio-del-codon-usage-en-el-virus-del-PRRS" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-
+- [Trabajo de Fin de Master: Plan de propuesta. Aplicacion de la IA en el estudio del codon usage en el virus del PRRS](https://github.com/Liliana223/Plan-de-propuesta.-Aplicacion-de-la-IA-en-el-estudio-del-codon-usage-en-el-virus-del-PRRS)
+  
 - HackBio Internship Cancer:
-  - Gram positive vs Negative bacteria Stage-zero. <a href="https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Gram-positive-vs-Negative-bacteria-Stage-zero.md" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-  - Estimating the burden of antimicrobial resistance: a systematic literature review Stage-one. <a href="https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Estimating-the-burden-of-antimicrobial-resistance-stage-one.md" target="_blank"> <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+  
+  - [Gram positive vs Negative bacteria. Stage-zero](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Gram-positive-vs-Negative-bacteria-Stage-zero.md)
+
+  - [Estimating the burden of antimicrobial resistance: a systematic literature review. Stage-one](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Estimating-the-burden-of-antimicrobial-resistance-stage-one.md)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools
 
