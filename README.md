@@ -11,6 +11,11 @@ Soy bacterióloga y laboratorista clínico, egresada de la Universidad Colegio M
 
 I am a bacteriologist and clinical laboratory scientist, graduated from Universidad Colegio Mayor de Cundinamarca. I am currently pursuing a master's degree in Bioinformatics at Universidad Internacional de La Rioja, where I am involved in various projects related to this field 💫. Among them, I highlight my Master’s Thesis (TFM), focused on the application of artificial intelligence in the field of virology 😊. In addition, I have participated in remote internships through HackBio, where I have developed projects in R programming, data analysis, and application creation to solve bioinformatics problems 💫.
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Projects
+
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
