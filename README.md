@@ -15,7 +15,7 @@ I am a bacteriologist and clinical laboratory scientist, graduated from Universi
 
 - [Trabajo de Fin de Master: Plan de propuesta. Aplicacion de la IA en el estudio del codon usage en el virus del PRRS](https://github.com/Liliana223/Plan-de-propuesta.-Aplicacion-de-la-IA-en-el-estudio-del-codon-usage-en-el-virus-del-PRRS)
   
-- HackBio Internship Cancer:
+- [HackBio Internship Cancer:](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Gram-positive-vs-Negative-bacteria-Stage-zero.md)
   
   - [Gram positive vs Negative bacteria. Stage-zero](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Gram-positive-vs-Negative-bacteria-Stage-zero.md)
 
