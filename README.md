@@ -21,8 +21,8 @@ I am a bacteriologist and clinical laboratory scientist, graduated from Universi
   - [Phase 1. Introduction to Bash. Phase 2. Cholera Outbreak Dashboard. Stage-three](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Stage%203.md)
   - [Implement a simple NGS analysis on a simple dataset. Stage-four](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Implement_a_simple_NGS_analysis_on_a_simple_dataset/stage4.md)
 - [BioinformHER Mini Project: Analysis of the Human TNF Gene](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project)
-- [Aplicación práctica del análisis clínico genómico en Galaxy](https://github.com/Liliana223/Aplicacion-practica-del-analisis-clinico-genomico)
-- [Aplicación de tres métodos de aprendizaje no supervisado en R](https://github.com/Liliana223/Machine_learning_aprendizaje_no_supervisado)
+- [Aplicación práctica del análisis clínico genómico con Galaxy](https://github.com/Liliana223/Aplicacion-practica-del-analisis-clinico-genomico)
+- [Aplicación de tres métodos de aprendizaje no supervisado con R](https://github.com/Liliana223/Machine_learning_aprendizaje_no_supervisado)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools
 
