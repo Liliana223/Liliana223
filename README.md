@@ -24,6 +24,8 @@ I am a bacteriologist and clinical laboratory scientist, graduated from Universi
   - [Data analysis and visualization. Pipeline of antimicrobial agents in clinical development (WHO - Nov 2021). Stage-two](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/DATA-VISUALIZATION-OF-ANTIMICROBIAL-PRODUCTS-%20STAGE2.md)
 
   - [Phase 1. Introduction to Bash. Phase 2. Cholera Outbreak Dashboard. Stage-three](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Stage%203.md)
+ 
+  - [Implement a simple NGS analysis on a simple dataset. Stage-four](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Implement_a_simple_NGS_analysis_on_a_simple_dataset/stage4.md)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Softwares and Tools
 
