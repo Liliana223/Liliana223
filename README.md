@@ -21,7 +21,7 @@ I am a bacteriologist and clinical laboratory scientist, graduated from Universi
 
   - [Estimating the burden of antimicrobial resistance: a systematic literature review. Stage-one](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Estimating-the-burden-of-antimicrobial-resistance-stage-one.md)
 
-  - [DATA ANALYSIS AND VISUALIZATION. Pipeline of antimicrobial agents in clinical development (WHO - Nov 2021). Stage-two](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/DATA-VISUALIZATION-OF-ANTIMICROBIAL-PRODUCTS-%20STAGE2.md)
+  - [Data analysis and visualization. Pipeline of antimicrobial agents in clinical development (WHO - Nov 2021). Stage-two](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/DATA-VISUALIZATION-OF-ANTIMICROBIAL-PRODUCTS-%20STAGE2.md)
 
   - [Phase 1. Introduction to Bash. Phase 2. Cholera Outbreak Dashboard. Stage-three](https://github.com/Liliana223/HackBio-Internship-Cancer/blob/main/Stage%203.md)
 
