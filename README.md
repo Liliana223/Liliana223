@@ -24,6 +24,7 @@ Proyectos:
 - [BioinformHER Mini Project: Analysis of the Human TNF Gene](https://github.com/Liliana223/-BioinformHER_Module-1-Mini-Project)
 - [Aplicación práctica del análisis clínico genómico con Galaxy](https://github.com/Liliana223/Aplicacion-practica-del-analisis-clinico-genomico)
 - [Aplicación de tres métodos de aprendizaje no supervisado con R](https://github.com/Liliana223/Machine_learning_aprendizaje_no_supervisado)
+  
 Cursos:
   - [Fundamentos de la bioestadistica descriptiva en R](https://github.com/Liliana223/Fundamentos-de-la-bioestadistica-descriptiva) 
 
