@@ -7,7 +7,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  About me
 
-Soy bacterióloga y laboratorista clínico, egresada de la Universidad Colegio Mayor de Cundinamarca, con Maestría en Bioinformática de la Universidad Internacional de La Rioja (UNIR) 🎓. Mi trayectoria combina la experiencia en laboratorio clínico con el análisis computacional de datos genómicos. Actualmente formo parte del equipo de GenCell, donde realizo análisis y clasificación de variantes en exomas dirigidos aplicando las guías ACMG, contribuyendo a la interpretación clínica de hallazgos genéticos y al soporte diagnóstico de diversas patologías 💻. 
+Soy bacterióloga y laboratorista clínico, egresada de la Universidad Colegio Mayor de Cundinamarca, con Maestría en Bioinformática de la Universidad Internacional de La Rioja (UNIR) 🎓. Mi trayectoria combina la experiencia en laboratorio clínico con el análisis computacional de datos genómicos. Actualmente formo parte del equipo de Gencell, donde realizo análisis y clasificación de variantes en exomas dirigidos aplicando las guías ACMG, contribuyendo a la interpretación clínica de hallazgos genéticos y al soporte diagnóstico de diversas patologías 💻. 
 
 Durante mi formación de maestría participé en diversos proyectos de bioinformática, destacando mi Trabajo de Fin de Máster, centrado en la aplicación de inteligencia artificial en el campo de la virología. Asimismo, realicé prácticas remotas con la plataforma HackBio, donde desarrollé proyectos en R, análisis de datos y creación de aplicaciones enfocadas en la resolución de problemas reales en biociencias computacionales 🦠.
 
